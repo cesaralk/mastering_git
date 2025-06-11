@@ -1,5 +1,4 @@
-## hey you evrey one 
+## welcome to git
 
-jonny here
-
+this is coming from dec adrian
 iam adding this from 'feature-branch'
